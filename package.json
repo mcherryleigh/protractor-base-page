@@ -1,0 +1,26 @@
+{
+  "name": "protractor-base-page",
+  "version": "0.0.1",
+  "description": "A base object to give structure describing a page, selectors, steps. Additionally some helper functions are included",
+  "author": "Michael Cherry-Leigh",
+  "main": "page.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcherryleigh/protractor-base-page"
+  },
+  "bugs": {
+    "url": "https://github.com/mcherryleigh/protractor-base-page/issues"
+  },
+  "keywords": [
+    "protractor",
+    "page object",
+    "page",
+    "helper",
+    "utility",
+    "selenium",
+    "webdriver"
+  ],
+  "dependencies": {
+    "clone": "*"
+  }
+}
